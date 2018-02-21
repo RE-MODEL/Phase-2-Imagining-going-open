@@ -1,4 +1,4 @@
-# Phase-2: Imagining going open
+# REMODEL Phase 2: Imagining going open
 
 ## What is REMODEL?
 REMODEL is an initiative to explore how manufacturing businesses can use open source methodologies and principles to develop economically sustainable strategies and business models for physical products. 
